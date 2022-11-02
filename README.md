@@ -10,7 +10,7 @@ You can find our paper about the design, implementation, and experimental result
 
 Welcome to cite our paper:
 '''
-> @article{10.1145/3560263,
+@article{10.1145/3560263,
 author = {He, Zheyuan and Song, Shuwei and Bai, Yang and Luo, Xiapu and Chen, Ting and Zhang, Wensheng and He, Peng and Li, Hongwei and Lin, Xiaodong and Zhang, Xiaosong},
 title = {TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts},
 year = {2022},
