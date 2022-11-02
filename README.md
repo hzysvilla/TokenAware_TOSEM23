@@ -35,3 +35,7 @@ The result will in the temp file in your Tokenaware dir.
 
 ## experiment result
  * `FraudulentTransfer.xlsx`：the infomation about the application.
+ 
+ 
+# Contact us
+If you have any problems in using our tool, please send emails to ecjgvmhc@gmail.com
