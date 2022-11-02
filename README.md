@@ -9,7 +9,7 @@ You can find our paper about the design, implementation, and experimental result
 # Citing in Academic Work
 
 Welcome to cite our paper:
-'''
+```shell
 @article{10.1145/3560263,
 author = {He, Zheyuan and Song, Shuwei and Bai, Yang and Luo, Xiapu and Chen, Ting and Zhang, Wensheng and He, Peng and Li, Hongwei and Lin, Xiaodong and Zhang, Xiaosong},
 title = {TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts},
@@ -24,7 +24,7 @@ journal = {ACM Trans. Softw. Eng. Methodol.},
 month = {aug},
 keywords = {smart contract, token, bookkeeping recognition, Ethereum}
 }
-'''
+```
 
 # The Catalog of TokenAware
 
